@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+*{
+	width:1100px;
+	background-color:olivedrab;
+} 
+img{
+	width:800px;
+	heigth:500px;
+}
+.FL{
+	width:200px
+}
+.middle{
+	width:600px
+}
